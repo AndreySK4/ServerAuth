@@ -1,7 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EvolSoft/ServerAuth
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AndreySK4/ServerAuth
 branches:
 - master
 projects:
   ServerAuth:
-    path: ServerAuth/
+    path: ServerAuth/ServerAuth
 ...
