@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   ServerAuth:
-    path: ServerAuth/ServerAuth
+    path: ServerAuth/
 ...
